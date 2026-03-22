@@ -21,7 +21,7 @@ The child enters a calm hospital waiting room, selects a procedure card, and is 
 ## Features
 
 - **Hospital lobby** — Waiting room environment with animated title, Start and How It Works screens
-- **Procedure selection** — 5 comic-style procedure cards with fade transition
+- **Procedure selection** — 2 comic-style procedure cards with fade transition
 - **Blood Draw scene** — Grabbable syringe, glowing injection spot, patient model swap on completion
 - **Dressing Change scene** — Clickable old bandage removal, grabbable bandage roll, arm mesh collider detection
 - **Step-by-step UI** — Comic-style instruction images float at eye level and update with each action
@@ -43,7 +43,6 @@ The child enters a calm hospital waiting room, selects a procedure card, and is 
 | Language | C# |
 | UI | World Space Canvas + Tracked Device Graphic Raycaster |
 | 3D Assets | Sketchfab + Unity Asset Store |
-| Art | Gemini-generated comic/cartoon UI assets |
 | Build Target | Android (ARM64, ASTC compression) |
 
 ---
